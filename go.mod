@@ -8,7 +8,7 @@ require (
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/alicebob/miniredis/v2 v2.22.0
 	github.com/aquasecurity/bolt-fixtures v0.0.0-20200903104109-d34e7f983986
-	github.com/aquasecurity/go-dep-parser v0.0.0-20220819065825-29e1e04fb7ae
+	github.com/aquasecurity/go-dep-parser v0.0.0-20220830123424-46cde9383d60
 	github.com/aquasecurity/go-gem-version v0.0.0-20201115065557-8eed6fe000ce
 	github.com/aquasecurity/go-npm-version v0.0.0-20201110091526-0b796d180798
 	github.com/aquasecurity/go-pep440-version v0.0.0-20210121094942-22b2f8951d46
@@ -58,7 +58,7 @@ require (
 	github.com/spf13/viper v1.12.0
 	github.com/stretchr/testify v1.8.0
 	github.com/testcontainers/testcontainers-go v0.13.0
-	github.com/tetratelabs/wazero v0.0.0-20220701105919-891761ac1ee2
+	github.com/tetratelabs/wazero v1.0.0-pre.1
 	github.com/twitchtv/twirp v8.1.2+incompatible
 	github.com/xlab/treeprint v1.1.0
 	go.etcd.io/bbolt v1.3.6
@@ -164,7 +164,7 @@ require (
 	github.com/apparentlymart/go-textseg/v13 v13.0.0 // indirect
 	github.com/aquasecurity/defsec v0.71.9
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535 // indirect
-	github.com/aws/aws-sdk-go v1.44.77
+	github.com/aws/aws-sdk-go v1.44.90
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bmatcuk/doublestar v1.3.4 // indirect
