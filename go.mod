@@ -123,7 +123,7 @@ require (
 	github.com/alecthomas/chroma v0.10.0
 	github.com/antchfx/htmlquery v1.3.0
 	github.com/apparentlymart/go-cidr v1.1.0
-	github.com/aws/smithy-go v1.19.0
+	github.com/aws/smithy-go v1.20.1
 	github.com/hashicorp/go-uuid v1.0.1
 	github.com/hashicorp/hcl/v2 v2.19.1
 	github.com/liamg/iamgo v0.0.9
