@@ -13,17 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main
-        uses: actions/checkout@v4.1.6
+        uses: actions/checkout@v5
 
       - name: Set up Go
-        uses: actions/setup-go@v5
+        uses: actions/setup-go@v6
         with:
           # cf. https://github.com/aquasecurity/trivy/pull/6711
           go-version: ${{ env.GO_VERSION }}
           cache: false
 
       - name: Install aqua tools
-        uses: aquaproj/aqua-installer@v3.0.1
+        uses: aquaproj/aqua-installer@v4.0.3
         with:
           aqua_version: v1.25.0
 
